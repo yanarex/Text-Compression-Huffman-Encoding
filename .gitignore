@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
+
+# Generated encoded output files
+*.enc
+
+# Large/copyrighted text files
+LOTR-The_Fellowship_of_the_Ring
+LOTR-The_Fellowship_of_the_Ring.enc
